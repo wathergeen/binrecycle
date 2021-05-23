@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link href="assets/css/sb-admin-2.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -64,23 +64,23 @@
             <hr class="sidebar-divider my-0">
             <li class="nav-item active">
                 <a class="nav-link" href="?page=">
-                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <i class="fal fa-cookie-bite"></i>
                     <span>Boas Vindas</span>
                 </a>
             </li>
             <hr class="sidebar-divider">
             <div class="sidebar-heading">
-                Painéis
+                Páginas
             </div>
             <li class="nav-item">
                 <a class="nav-link" href="?page=form">
-                    <i class="fas fa-archive"></i>
+                    <i class="far fa-list-alt"></i>
                     <span>Cadastro</span>
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="?page=maps">
-                    <i class="fas fa-archive"></i>
+                    <i class="fal fa-map-marked-alt"></i>
                     <span>Teste de Mapa</span>
                 </a>
             </li>
