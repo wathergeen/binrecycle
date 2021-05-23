@@ -55,17 +55,17 @@
     </div>
     <div id="wrapper">
         <ul class="navbar-nav sidebar sidebar-bin text-white sidebar-dark" id="accordionSidebar">
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="?page=">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center my-4" href="?page=">
                 <div class="sidebar-brand-icon fa-rotate-n-15">
-                    <i class="fas fa-user-secret"></i>
+                    <img src="reduce.svg" alt="logo" width="60px">
                 </div>
-                <div class="sidebar-brand-text mx-3">P.M.S. <sup>v2.0</sup></div>
+                <div class="sidebar-brand-text mx-3">Bin Recycle <sup>V1.0</sup></div>
             </a>
             <hr class="sidebar-divider my-0">
             <li class="nav-item active">
                 <a class="nav-link" href="?page=">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span>
+                    <span>Boas Vindas</span>
                 </a>
             </li>
             <hr class="sidebar-divider">
@@ -97,7 +97,7 @@
                         <i class="fa fa-bars"></i>
                     </button>
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                        <h1 class="h3 mt-4 text-dark">Aplicação focada na facilidade da reciclagem de resídupos.</h1>
+                        <h1 class="h3 mt-4 text-dark">Aplicação focada na facilidade da reciclagem de resíduos.</h1>
                     </div>
                     <ul class="navbar-nav ml-auto">
                         <h2 class="h5 mt-3 text-dark">
@@ -127,7 +127,7 @@
             <footer class="sticky-footer bg-white py-3" data-toggle="modal" data-target="#CreditModal">
                 <div class="container my-auto">
                     <div id="ownerInfo" class="footer-copyright font-12 text-center is-sucess footer">
-                        <span>Copyright © 2020 - <?php echo date("Y"); ?> CPD Renato Silva - Filial 176</span>
+                        <span>Copyright © 2021 - <?php echo date("Y"); ?> | Bin Recyle, Group.</span>
                     </div>
                 </div>
             </footer>

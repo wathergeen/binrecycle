@@ -1,24 +1,21 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Teste Geolocation</title>
-  
-    <style type="text/css">
-      /* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-      #map {
-        height: 100%;
-      }
+<title>Teste Geolocation</title>
 
-      /* Optional: Makes the sample page fill the window. */
-      html,
-      body {
+<style type="text/css">
+    /* Always set the map height explicitly to define the size of the div
+   * element that contains the map. */
+    #map {
+        height: 100%;
+    }
+
+    /* Optional: Makes the sample page fill the window. */
+    html,
+    body {
         height: 100%;
         margin: 0;
         padding: 0;
-      }
+    }
 
-      .custom-map-control-button {
+    .custom-map-control-button {
         background-color: #fff;
         border: 0;
         border-radius: 2px;
@@ -29,14 +26,13 @@
         overflow: hidden;
         height: 40px;
         cursor: pointer;
-      }
-      .custom-map-control-button:hover {
-        background: #ebebeb;
-      }
-    </style>
+    }
 
-  </head>
-  <body>
-<iframe src="https://www.google.com/maps/embed?pb=77807170" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-  </body>
-</html>
+    .custom-map-control-button:hover {
+        background: #ebebeb;
+    }
+</style>
+
+<body>
+    <iframe src="https://www.google.com/maps/embed?pb=77807170" style="border:0; width: 60vw; height: 65vh;" allowfullscreen="true" loading="lazy"></iframe>
+</body>
